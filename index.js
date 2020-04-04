@@ -15,6 +15,6 @@ function happyCustomHolidayTo(holiday, name) {
 }
 
 //holidayCountdown parameters pass number of days until holiday
-function holidayCountdown(holiday, name) {
+function holidayCountdown(holiday, days) {
   return `It/'s ${days} days until ${holiday}!`
 }
